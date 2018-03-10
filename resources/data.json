@@ -1,0 +1,13 @@
+{
+  "basics":{
+    "name":"elena",
+    "age":"19",
+    "role":"student",
+    "mobile":"9876543210",
+    "email":"elena@gmail.com"
+
+  },
+  "career":{
+    "objective":"seeking a PI data position at a company where i am maximize my 10+ years of management,quality assurance,progaram development and training assurance"
+  }
+}
